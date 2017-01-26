@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme_3.0/master/screenshot.png)
+![screenshot](https://raw.github.com/TADT1909/DarkProcessingTheme_3.0/master/screenshot.png)
 
 Dark Processing Theme (for 3.0)
 ===================
@@ -30,4 +30,4 @@ If you're on Linux, you like a challenge – I'm sure you can figure this one o
 
 \- \- \-
 
-Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use but [please let me know](http://www.jeffreythompson.org).
+Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use.
